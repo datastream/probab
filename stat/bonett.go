@@ -6,7 +6,7 @@ package stat
 // Ref.: 
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 	"sort"
 )
 

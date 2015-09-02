@@ -2,7 +2,7 @@ package stat
 
 //Frequentist Confidence Interval for binomial parameter
 
-import "code.google.com/p/probab/dst"
+import "github.com/datastream/probab/dst"
 
 // BinomPConfInt returns a one-sided frequentist Confidence Interval for binomial parameter estimated from a random sample.
 // Ref.: Hahn & Meeker (1991).

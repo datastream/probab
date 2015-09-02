@@ -6,7 +6,7 @@ package bayes
 // Ref.: Albert (2009)
 
 import (
-	dst "code.google.com/p/probab/dst"
+	dst "github.com/datastream/probab/dst"
 )
 
 // betaprior1 returns the prior mean m given a beta(k*m, K*(1-m)) prior 	

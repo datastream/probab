@@ -6,7 +6,7 @@ package stat
 // Ref.: D’Agostino (1970). 
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 	"sort"
 )
 

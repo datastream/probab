@@ -3,7 +3,7 @@
 package bayes
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 	"fmt"
 	mx "github.com/skelterjohn/go.matrix"
 )

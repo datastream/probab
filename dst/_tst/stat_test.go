@@ -1,7 +1,7 @@
 package dst
 
 import (
-	. "code.google.com/p/go-fn/fn"
+	. "github.com/datastream/go-fn/fn"
 	"fmt"
 	"math"
 	"math/rand"

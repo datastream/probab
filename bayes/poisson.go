@@ -6,8 +6,8 @@
 package bayes
 
 import (
-	. "code.google.com/p/probab/dst"
-	//	. "code.google.com/p/go-fn/fn"
+	. "github.com/datastream/probab/dst"
+	//	. "github.com/datastream/go-fn/fn"
 	"math"
 )
 

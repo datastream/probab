@@ -6,7 +6,7 @@ package bayes
 // Ref: Kruschke 2012: Chapter 23.3.3, p. 629 and further.
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 )
 
 // Interval width

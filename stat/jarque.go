@@ -6,7 +6,7 @@ package stat
 // Ref.: Jarque & Bera (1980).
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 )
 
 // Jarque performs performs the Jarque-Bera test on the given data sample to determine if the data are 

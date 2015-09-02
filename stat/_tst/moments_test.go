@@ -1,7 +1,7 @@
 package stat
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 	"fmt"
 	"testing"
 )

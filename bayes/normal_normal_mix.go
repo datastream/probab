@@ -5,7 +5,7 @@ package bayes
 // Posterior for normal sampling and a mixture of normals prior
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 )
 
 // NormalNormalMix returns the parameters and mixing probabilities for a normal sampling problem, variance known,

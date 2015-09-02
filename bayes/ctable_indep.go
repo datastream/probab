@@ -7,7 +7,7 @@ package bayes
 // Ref.: Albert (2009): 200 [bfindep()]
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 	"fmt"
 )
 

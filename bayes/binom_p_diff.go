@@ -14,7 +14,7 @@
 package bayes
 
 import (
-	. "code.google.com/p/probab/dst"
+	. "github.com/datastream/probab/dst"
 	"math"
 )
 

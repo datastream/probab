@@ -7,7 +7,7 @@ package bayes
 // Ref.: Albert (2009)
 
 import (
-	fn "code.google.com/p/go-fn/fn"
+	fn "github.com/datastream/go-fn/fn"
 	"math"
 )
 

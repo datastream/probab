@@ -6,7 +6,7 @@ package bayes
 // Ref.: Albert (2009)
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 )
 
 // LogPoissNormal returns the logarithm of the posterior density of a Poisson log mean with a normal prior.

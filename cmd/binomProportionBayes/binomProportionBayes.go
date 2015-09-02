@@ -2,7 +2,7 @@
 package main
 
 import (
-	"code.google.com/p/probab/bayes"
+	"github.com/datastream/probab/bayes"
 	"fmt"
 	"math"
 )

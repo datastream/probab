@@ -6,7 +6,7 @@ package bayes
 // Ref.: Albert (2009)
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 )
 
 // LogPoissGamma returns the logarithm of the posterior density of a Poisson log mean with a gamma prior.

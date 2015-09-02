@@ -6,7 +6,7 @@ package bayes
 // Ref.: Albert (2009)
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 )
 
 func rigamma(shape, rate float64) float64 {

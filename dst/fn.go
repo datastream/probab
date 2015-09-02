@@ -1,7 +1,7 @@
 package dst
 
 import (
-	fn "code.google.com/p/go-fn/fn"
+	fn "github.com/datastream/go-fn/fn"
 	"math"
 )
 
@@ -41,7 +41,7 @@ var erfc func(float64) float64 = math.Erfc
 var isNaN func(float64) bool = math.IsNaN
 var isInf func(float64, int) bool = math.IsInf
 
-// Functions imported from "code.google.com/p/go-fn/fn".
+// Functions imported from "github.com/datastream/go-fn/fn".
 var Γ func(float64) float64 = fn.Γ
 var LnΓ func(float64) float64 = fn.LnΓ
 var Γr func(float64, float64) float64 = fn.Γr

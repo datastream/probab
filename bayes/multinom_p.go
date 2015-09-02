@@ -7,7 +7,7 @@ package bayes
 // http://en.wikipedia.org/wiki/Dirichletdistribution#Conjugatetomultinomial
 
 import (
-	. "code.google.com/p/probab/dst"
+	. "github.com/datastream/probab/dst"
 	"fmt"
 )
 

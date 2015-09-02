@@ -6,7 +6,7 @@ package stat
 // Ref.: Anscombe & Glynn (1983).
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 	"sort"
 )
 

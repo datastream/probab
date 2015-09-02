@@ -7,7 +7,7 @@ package bayes
 
 /* TO BE CONTINUED
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 )
 
 type QtlFn func(float64) float64

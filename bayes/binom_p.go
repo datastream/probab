@@ -6,7 +6,7 @@ package bayes
 // Bolstad 2007 (2e): Chapter 8, p. 141 and further.
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 	"fmt"
 	"math"
 )

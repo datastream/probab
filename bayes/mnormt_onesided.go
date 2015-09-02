@@ -6,7 +6,7 @@ package bayes
 // Ref.: Albert (2009): 184 [mnormt.onesided()]
 
 import (
-	"code.google.com/p/probab/dst"
+	"github.com/datastream/probab/dst"
 )
 
 // NormMeanTestOneSided does a Bayesian test of the hypothesis that a normal mean is less than or equal to a specified value.
